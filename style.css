@@ -23,7 +23,14 @@ h1 {
     vertical-align: center;
 }
 
+p {
+    color: #724A24;
+}
 
+h2 {
+    font-family: "Lucida Handwriting";
+    color: #724A24;
+}
 
 #profile_border {    
     border-radius: 50%;
